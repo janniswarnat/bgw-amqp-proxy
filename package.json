@@ -1,0 +1,9 @@
+{
+  "name": "bgw-websocket-proxy",
+  "version": "1.0.0",
+  "dependencies": {
+    "amqplib": "latest",
+    "toml": "latest",
+    "axios": "latest"
+  }
+}
